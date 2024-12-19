@@ -84,16 +84,16 @@ The course structure includes a number of components that collectively aim to so
 4. *Lab assignments* are a bit more larger scale, typically asking you to think about a whole file with more than one function to implement, and think about how everything ties together. It also gives you a chance to work on the command line and using the VS Code text editor.
 5. *Exams* offer checkpoints during the term to ensure that the knowledge you have acquired has stayed with you.
 
-#### Reading records
+#### Reading reflections
 
-For almost each class day there will be some reading assignment, and you are expected to submit a "reading record". These are video or audio recordings of yourself talking about the reading assignment, and each is considered completed if you have done the following:
+For almost each class day there will be some reading assignment, and you are expected to submit a "reading reflection". These are video or audio recordings of yourself talking about the reading assignment, and each is considered completed if you have done the following:
 
 - It is submitted by midnight the day before the class.
 - It is less than 3 minutes in length.
 - You mention 2-3 key things you learned in the reading.
 - You ask 1-2 questions you had from the reading (you may ask more).
 
-These reading records are aimed to ensure that you stay in touch with the material as it is covered. It is a minimal expectation for staying engaged with the course. As such, 80% completed records is a baseline requirement for any passing grade in the class.
+These reading reflections are aimed to ensure that you stay in touch with the material as it is covered. It is a minimal expectation for staying engaged with the course. As such, 80% completed reflections is a baseline requirement for any passing grade in the class.
 
 #### Class attendance
 
