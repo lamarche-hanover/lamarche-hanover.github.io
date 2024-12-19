@@ -47,7 +47,7 @@ This course builds up on the knowledge you developed in CS220, but expands on it
 2. You will gain some comfort with the Linux command line and corresponding tools. As a large majority of web and cloud services run on Linux machines and without graphical interfaces, a comfort with the command line is an essential skill to develop.
 3. You will learn how programs manage their data in memory, and how to work with pointers to manually manage this memory for your program. 
 4. You will learn about essential data structures like lists, stacks, queues and binary trees, how to implement them and how to consider tradeoffs of each alternative.
-5. 
+
 ## Course Components
 
 ### Resources
