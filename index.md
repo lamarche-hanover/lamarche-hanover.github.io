@@ -1,1 +1,3 @@
-[CS223 Syllabus](./cs223-syllabus.md)
+Website hosted on Github Pages!
+
+More coming soon!
